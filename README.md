@@ -1,6 +1,9 @@
 # qb-mushroomfarm #
 
 The script is not my creation, I only did optimization and esx to qb translation.
+Join My Server https://discord.gg/QD3wkkjpgz
+
+#More Scripts Coming Soon#
 
 Video: https://streamable.com/tjdgyk
 
