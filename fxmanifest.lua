@@ -1,6 +1,7 @@
 fx_version 'adamant'
 
 game 'gta5'
+Author "Ashen BoY"
 
 description "mushroom"
 
